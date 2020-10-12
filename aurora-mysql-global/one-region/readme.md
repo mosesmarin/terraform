@@ -1,11 +1,9 @@
-# Readme.md
 
-
-### aurora-mysql.tf
+### aurora-mysql.tf
 
 main terraform script
 
 
-### vars.tfvars
+### vars.tfvars
 
 Variables used by the script
