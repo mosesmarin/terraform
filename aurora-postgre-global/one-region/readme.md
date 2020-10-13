@@ -1,6 +1,6 @@
 
 
-### aurora-mysql.tf
+### main.tf
 
 main terraform script
 
