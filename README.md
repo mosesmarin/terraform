@@ -18,5 +18,9 @@ https://aws.amazon.com/blogs/database/deploy-an-amazon-aurora-postgresql-db-clus
 
 [One Region](https://github.com/mosesmarin/terraform/tree/main/aurora-postgre-global/one-region)
 
+[One Region with encryption at rest](https://github.com/mosesmarin/terraform/tree/main/aurora-postgre-global/one-region-with-encryption)
+
 [Two Regions](https://github.com/mosesmarin/terraform/tree/main/aurora-postgre-global/two-regions)
+
+[Two Regions with encryption at rest](https://github.com/mosesmarin/terraform/tree/main/aurora-postgre-global/two-regions-with-encryption)
 
